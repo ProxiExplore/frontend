@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application takes advantage of the Google Map API. That's why you need to get an API key first.
+
+It retrieves the places it finds in the surrounding area with the given location information and radius information.
 
 ## Available Scripts
 
